@@ -1,0 +1,1 @@
+export class Camera { x=0;y=0; shake=0; update(x:number,y:number,dt:number):void {this.x=x;this.y=y;this.shake=Math.max(0,this.shake-dt*24)} offset():[number,number]{const s=this.shake;return [this.x+(Math.random()-.5)*s,this.y+(Math.random()-.5)*s]} }
