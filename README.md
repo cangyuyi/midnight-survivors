@@ -1,5 +1,7 @@
 # 长夜收割者 · Nocturne Survivors
 
+> **授权提示**：本仓库目前未指定开源许可证。公开可浏览不代表允许复用、二次发布或商用；授权范围由仓库所有者后续明确。
+
 <p align="center">
   <strong>在线即玩（无需安装）：<a href="https://cangyuyi.github.io/midnight-survivors/">https://cangyuyi.github.io/midnight-survivors/</a></strong>
 </p>
